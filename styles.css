@@ -122,4 +122,26 @@ button {
     margin-top: -100px;
 }
 
+.inspiration {
+    height: 400px;
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    width: 700px;
+}
+
+.sig {
+    width: 700px;
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: end;
+}
 

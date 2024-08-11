@@ -5,6 +5,7 @@
     flex-direction: column;
     height: 500px   ;
     flex: auto;
+    justify-content: center;
 }
 
 body {
@@ -19,6 +20,7 @@ body {
     flex: 1;
     font-size: 24px;
     color: #f9faf8;
+    padding: 20px;
 }
 
 .links {
@@ -46,6 +48,7 @@ a {
 .top {
     display: flex;
     justify-content: space-around;
+    padding: 75px;
 }
 
 .intro {
@@ -70,6 +73,7 @@ button {
     font-size: 18px;
     padding: 10px 30px;
     border-radius: 12px;
+    color: white;
 }
 
 .info p {
